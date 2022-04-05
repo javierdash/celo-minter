@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/celo-minter/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/celo-minter/static/js/main.8c0911fe.chunk.js",
+    "main.js.map": "/celo-minter/static/js/main.8c0911fe.chunk.js.map",
+    "runtime-main.js": "/celo-minter/static/js/runtime-main.4ab3bc5e.js",
+    "runtime-main.js.map": "/celo-minter/static/js/runtime-main.4ab3bc5e.js.map",
+    "static/css/2.89cc1366.chunk.css": "/celo-minter/static/css/2.89cc1366.chunk.css",
+    "static/js/2.2b7dffb2.chunk.js": "/celo-minter/static/js/2.2b7dffb2.chunk.js",
+    "static/js/2.2b7dffb2.chunk.js.map": "/celo-minter/static/js/2.2b7dffb2.chunk.js.map",
+    "static/js/3.ec534f37.chunk.js": "/celo-minter/static/js/3.ec534f37.chunk.js",
+    "static/js/3.ec534f37.chunk.js.map": "/celo-minter/static/js/3.ec534f37.chunk.js.map",
+    "index.html": "/celo-minter/index.html",
+    "static/css/2.89cc1366.chunk.css.map": "/celo-minter/static/css/2.89cc1366.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/celo-minter/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.2b7dffb2.chunk.js.LICENSE.txt": "/celo-minter/static/js/2.2b7dffb2.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/celo-minter/static/media/bootstrap-icons.c1d7432e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ab3bc5e.js",
+    "static/css/2.89cc1366.chunk.css",
+    "static/js/2.2b7dffb2.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.8c0911fe.chunk.js"
+  ]
+}
